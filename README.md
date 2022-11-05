@@ -1,16 +1,23 @@
-# perguntas
+# Perguntas App
 
 Projeto desenvolvido no curso de flutter da Cod3r.
 
-## Getting Started
+>
 
-This project is a starting point for a Flutter application.
+Prática de conceitos básicos com o framework.
 
-A few resources to get you started if this is your first Flutter project:
+## Versão Usada
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- sdk: >=2.18.2 <3.0.0
+- Flutter: 3.3.5
+- Dart: 2.18.2
+- DevTools: 2.15.0
+- openjdk 11.0.16
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+
+![primeira pergunta](./img/cor.png "Text to show on mouseover").
+![segunda pergunta](./img/nome.png "Text to show on mouseover").
+![terceira pergunta](./img/animal.png "Text to show on mouseover").
+![quarta pergunta](./img/objeto.png "Text to show on mouseover").
+![tela final](./img/result.png "Text to show on mouseover").
